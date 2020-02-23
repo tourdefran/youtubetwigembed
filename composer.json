@@ -1,6 +1,6 @@
 {
     "name": "tourdefran/youtubetwigembed",
-    "description": "Allows you to embed youtube and vimeo videos on Markdown (Parsedown Extra).",
+    "description": "Allows you to embed Youtube and Vimeo videos on Markdown (Parsedown Extra).",
     "type": "bolt-extension",
     "keywords": [
     ],
